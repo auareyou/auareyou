@@ -1,4 +1,5 @@
-# auareyou
+![cover](https://user-images.githubusercontent.com/6951037/87251166-e624c100-c469-11ea-9219-0bb518a8ea75.png)
+
 
 ### Things I like
 - 🎵 I have guilt-free pleasures: Reality shows, musicals and self-help reads.
