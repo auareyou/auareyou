@@ -2,7 +2,7 @@
 
 
 ### Things I like
-- 🎵 I have guilt-free pleasures: Reality shows, musicals and self-help reads.
+- 🎵 I have guilt-free pleasures: Reality shows, [musicals](https://github.com/auareyou/auareyou/blob/master/musical.md) and self-help reads.
 - 🌯 I love food; eating it, buying it and cooking it. 
 - 🦦 Animal Crossing
 - ✨ Gradients and bold colors
