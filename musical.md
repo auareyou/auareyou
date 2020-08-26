@@ -10,86 +10,86 @@
 - [ ] The Book of Mormon
 
 ## Movies
-- [ ] Hairspray
+- [x] Hairspray
 - [ ] Les Miserables
 - [ ] Funny girl
 - [ ] West side story
-- [ ] Grease
+- [x] Grease
 - [ ] A star is born
-- [ ] [Remake] A star is born 
-- [ ] Bohemian Rhapsody
-- [ ] Rocket man
+- [x] [Remake] A star is born 
+- [x] Bohemian Rhapsody
+- [x] Rocket man
 - [ ] Rent
-- [ ] Frozen 1 & 2
-- [ ] High School Musical 1, 2 & 3
-- [ ] Camp Rock 1 & 2
-- [ ] Moulin Rouge
+- [x] Frozen 1 & 2
+- [x] High School Musical 1, 2 & 3
+- [x] Camp Rock 1 & 2
+- [x] Moulin Rouge
 - [ ] Rocky Horror Picture Show
-- [ ] The Sound of Music
+- [x] The Sound of Music
 - [ ] The Greatest Showman
 - [ ] Yesterday
-- [ ] Mamma Mia! 
+- [x] Mamma Mia! 
 - [ ] Mamma Mia 2
-- [ ] Moana
+- [x] Moana
 - [ ] La La Land
 - [ ] Dreamgirls
-- [ ] [Remake] Dreamgirls
-- [ ] Cadillac Records
-- [ ] Pitch Perfect 1, 2 & 3
+- [x] [Remake] Dreamgirls
+- [x] Cadillac Records
+- [x] Pitch Perfect 1, 2 & 3
 - [ ] Footloose 
-- [ ] [Remake] Footloose
-- [ ] Dirty Dancing
-- [ ] Burlesque
+- [x] [Remake] Footloose
+- [x] Dirty Dancing
+- [x] Burlesque
 - [ ] CHI-RAQ
 - [ ] Into the Woods
-- [ ] Stargirl
+- [x] Stargirl
 - [ ] The Dirt
-- [ ] Control
-- [ ] Sweeney Todd
-- [ ] Once
-- [ ] Chicago
+- [x] Control
+- [x] Sweeney Todd
+- [x] Once
+- [x] Chicago
 - [ ] Cabaret
 - [ ] My Fair Lady
 - [ ] Singin in the Rain
 - [ ] All that Jazz
-- [ ] Sister act
+- [x] Sister act
 - [ ] Jersey Boys
 - [ ] Funny face
 - [ ] Purple Rain
 - [ ] Fame
-- [ ] Rock of Ages
+- [x] Rock of Ages
 - [ ] Across the Universe
 - [ ] Hair
 - [ ] The Last Five Years
 - [ ] The Music Man
 - [ ] My Fair Lady
-- [ ] The Blues Brothers
+- [x] The Blues Brothers
 - [ ] On The Town
-- [ ] Gentlemen Prefer Blondes
-- [ ] The Lion King
-- [ ] [Remake] The Lion King
-- [ ] The Prince of Egypt
-- [ ] Hercules
+- [x] Gentlemen Prefer Blondes
+- [x] The Lion King
+- [x] [Remake] The Lion King
+- [x] The Prince of Egypt
+- [x] Hercules
 - [ ] Oklahoma!
 - [ ] Been So Long
-- [ ] O Brother, where are thou?
+- [x] O Brother, where are thou?
 - [ ] Some like it Hot
 - [ ] Black is King
 - [ ] Labyrinth
 - [ ] Help!
 - [ ] 9 to 5
-- [ ] Flashdance
+- [x] Flashdance
 - [ ] Yentl
 
 
 
 ## Series
-- [ ] Glee
+- [x] Glee
 - [ ] Pose
-- [ ] Empire
-- [ ] Nashville
+- [x] Empire
+- [x] Nashville
 - [ ] Zoey's Extraordinary Playlist
 - [ ] Soundtrack
 - [ ] The Get Down
 - [ ] High School Musical
-- [ ] Smash
+- [x] Smash
