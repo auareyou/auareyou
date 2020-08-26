@@ -26,6 +26,45 @@
 - [ ] Moulin Rouge
 - [ ] Rocky Horror Picture Show
 - [ ] The Sound of Music
+- [ ] The Greatest Showman
+- [ ] Yesterday
+- [ ] Mamma Mia! 
+- [ ] Mamma Mia 2
+- [ ] Moana
+- [ ] La La Land
+- [ ] Dreamgirls
+- [ ] [Remake] Dreamgirls
+- [ ] Cadillac Records
+- [ ] Pitch Perfect 1, 2 & 3
+- [ ] Footloose 
+- [ ] [Remake] Footloose
+- [ ] Dirty Dancing
+- [ ] Burlesque
+- [ ] CHI-RAQ
+- [ ] Into the Woods
+- [ ] Stargirl
+- [ ] The Dirt
+- [ ] Control
+- [ ] Sweeney Todd
+- [ ] Once
+- [ ] Chicago
+- [ ] Cabaret
+- [ ] My Fair Lady
+- [ ] Singin in the Rain
+- [ ] All that Jazz
+- [ ] Sister act
+- [ ] Jersey Boys
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Series
