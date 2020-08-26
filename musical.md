@@ -55,9 +55,31 @@
 - [ ] Sister act
 - [ ] Jersey Boys
 - [ ] Funny face
-
-
-
+- [ ] Purple Rain
+- [ ] Fame
+- [ ] Rock of Ages
+- [ ] Across the Universe
+- [ ] Hair
+- [ ] The Last Five Years
+- [ ] The Music Man
+- [ ] My Fair Lady
+- [ ] The Blues Brothers
+- [ ] On The Town
+- [ ] Gentlemen Prefer Blondes
+- [ ] The Lion King
+- [ ] [Remake] The Lion King
+- [ ] The Prince of Egypt
+- [ ] Hercules
+- [ ] Oklahoma!
+- [ ] Been So Long
+- [ ] O Brother, where are thou?
+- [ ] Some like it Hot
+- [ ] Black is King
+- [ ] Labyrinth
+- [ ] Help!
+- [ ] 9 to 5
+- [ ] Flashdance
+- [ ] Yentl
 
 
 
