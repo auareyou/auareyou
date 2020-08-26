@@ -12,6 +12,7 @@
 ## Movies
 - [x] Hairspray
 - [x] Dumplin
+- [x] Glitter
 - [ ] Les Miserables
 - [ ] Funny girl
 - [ ] West side story
