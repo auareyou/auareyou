@@ -54,13 +54,7 @@
 - [ ] All that Jazz
 - [ ] Sister act
 - [ ] Jersey Boys
-
-
-
-
-
-
-
+- [ ] Funny face
 
 
 
