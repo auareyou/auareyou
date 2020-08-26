@@ -11,6 +11,7 @@
 
 ## Movies
 - [x] Hairspray
+- [x] Dumplin
 - [ ] Les Miserables
 - [ ] Funny girl
 - [ ] West side story
