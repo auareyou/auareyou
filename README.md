@@ -7,7 +7,7 @@
 - 🌯 I love food; eating it, buying it and cooking it. 
 - 🦦 Animal Crossing
 - ✨ Gradients and bold colors
-- 📻 Podcasts: True Crime obsessed, The Read, 99% Invisible and Keep it
+- 📻 Podcasts: The Read, 99% Invisible and Keep it
 - 📸 Photography
 
 Oh! and I write a weekly newsletter about curiosity and the journey of learning. https://auareyou.substack.com/
