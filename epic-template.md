@@ -31,5 +31,11 @@ End Date: MM/DD/YYYY
 ## Stakeholders
 <!-- List anyone who should be aware of or involved in the progress of this epic. Include key team members, product managers, or external stakeholders. -->
 
+| Role | Name |
+|--------|--------|
+| Role 1 | Name 1 |
+| Role 2 | Name 2 |
+| Role 3 | Name 3 | 
+
 ## Additional Information
 <!-- Include any other context or background information, such as links to documents, designs, or discussions. -->
