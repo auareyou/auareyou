@@ -1,4 +1,4 @@
-# Epic Title
+# [Epic Title]
 <!-- A high-level description of the goal or the larger task that this epic covers. Explain the why behind the epic and what the desired outcome is. -->
 
 ## Goal
@@ -28,8 +28,8 @@ Include how it aligns with product vision, user needs, or business goals. -->
 Start Date: MM/DD/YYYY
 End Date: MM/DD/YYYY
 
-## Stakeholders:
+## Stakeholders
 <!-- List anyone who should be aware of or involved in the progress of this epic. Include key team members, product managers, or external stakeholders. -->
 
-## Additional Information:
+## Additional Information
 <!-- Include any other context or background information, such as links to documents, designs, or discussions. -->
