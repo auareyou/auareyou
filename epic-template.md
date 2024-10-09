@@ -15,9 +15,9 @@ Include how it aligns with product vision, user needs, or business goals. -->
 ## Tasks
 <!-- List all the related issues and tasks (child issues) that are part of this epic. -->
 
-- Issue #1
-- Issue #2
-- Issue #3
+- [ ] Issue #1
+- [ ] Issue #2
+- [ ] Issue #3
 
 ## Dependencies
 <!-- Are there any other epics, features, or external factors that must be completed before this epic can be considered complete? -->
