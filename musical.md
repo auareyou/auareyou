@@ -1,48 +1,48 @@
 ## Broadway
 - [ ] The Phantom of the Opera
-- [ ] Hamilton
+- [x] Hamilton
 - [ ] Rent
-- [ ] Chicago
-- [ ] Wicked
+- [x] Chicago
+- [x] Wicked
 - [ ] Les Miserables
-- [ ] Funny girl
+- [x] Funny girl
 - [ ] Cats
-- [ ] The Book of Mormon
+- [x] The Book of Mormon
 
 ## Movies
 - [x] Hairspray
 - [x] Dumplin
 - [x] Glitter
-- [ ] Les Miserables
-- [ ] Funny girl
-- [ ] West side story
+- [x] Les Miserables
+- [x] Funny girl
+- [x] West side story
 - [x] Grease
-- [ ] A star is born
+- [x] A star is born
 - [x] [Remake] A star is born 
 - [x] Bohemian Rhapsody
 - [x] Rocket man
-- [ ] Rent
+- [x] Rent
 - [x] Frozen 1 & 2
 - [x] High School Musical 1, 2 & 3
 - [x] Camp Rock 1 & 2
 - [x] Moulin Rouge
 - [ ] Rocky Horror Picture Show
 - [x] The Sound of Music
-- [ ] The Greatest Showman
-- [ ] Yesterday
+- [x] The Greatest Showman
+- [x] Yesterday
 - [x] Mamma Mia! 
-- [ ] Mamma Mia 2
+- [x] Mamma Mia 2
 - [x] Moana
 - [ ] La La Land
-- [ ] Dreamgirls
+- [x] Dreamgirls
 - [x] [Remake] Dreamgirls
 - [x] Cadillac Records
 - [x] Pitch Perfect 1, 2 & 3
-- [ ] Footloose 
+- [x] Footloose 
 - [x] [Remake] Footloose
 - [x] Dirty Dancing
 - [x] Burlesque
-- [ ] CHI-RAQ
+- [x] CHI-RAQ
 - [ ] Into the Woods
 - [x] Stargirl
 - [ ] The Dirt
@@ -50,10 +50,10 @@
 - [x] Sweeney Todd
 - [x] Once
 - [x] Chicago
-- [ ] Cabaret
+- [x] Cabaret
 - [ ] My Fair Lady
 - [ ] Singin in the Rain
-- [ ] All that Jazz
+- [x] All that Jazz
 - [x] Sister act
 - [ ] Jersey Boys
 - [ ] Funny face
@@ -87,7 +87,7 @@
 
 ## Series
 - [x] Glee
-- [ ] Pose
+- [x] Pose
 - [x] Empire
 - [x] Nashville
 - [ ] Zoey's Extraordinary Playlist
